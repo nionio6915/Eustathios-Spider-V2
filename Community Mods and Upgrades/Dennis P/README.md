@@ -23,3 +23,6 @@ Jigs are bits that I made to make spotting of holes and tapping the extrusions
 Z Bed supports are remixed to use TR8x8 screws - 
 ![Z Bed Supports](Z%20Bed%20Support/Capture.PNG)
 
+Z Motor Bracket- I goofed on my belts. I needed another bracket configuration- this lets you reroute the belt to get some tensions on it a bit better
+![Z motor Bracket](Z-Motor%20Bracket/Z_Motor_Bracket-Installed.PNG)
+
