@@ -2,10 +2,10 @@ This is my repo of parts I made or remixed for my build.
 
 BMG Carraige using LM8UU Bearings- 
 
-![BMG_Carriage_LM8UU](Assembly.PNG)
+![BMG_Carriage_LM8UU](BMG_Carriage_LM8UU/Assembly.PNG)
 
 Volcano Part Cooler for BMG Carraige
-![BMG_Carriage_LM8UU](Volcano_Shroud.png)
+![BMG_Carriage_LM8UU](BMG_Carriage_LM8UU/Volcano_Shroud.png)
 
 8020_20x20_Cable Clips are for wire managmement
 
